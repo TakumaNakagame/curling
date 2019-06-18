@@ -1,0 +1,2 @@
+# curling
+curlでpingっぽくHTTPの疎通確認を行うためのシェルスクリプト
